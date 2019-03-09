@@ -1,0 +1,3 @@
+1.装插件不成功时，尝试加参数--save（express），加参数-g（forever）
+2.添加json属性：json[a] = [[1,2,3],[4,5,6]]
+3.取两位小数：toFixed(2)
